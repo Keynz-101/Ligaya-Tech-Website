@@ -2,7 +2,7 @@
 
 // Set an actual company email to make the contact buttons open an email draft.
 // An empty value keeps the design's buttons linked to the footer contact area.
-
+const CONTACT_EMAIL = "";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navigation = document.querySelector("#primary-navigation");
